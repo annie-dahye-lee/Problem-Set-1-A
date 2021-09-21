@@ -12,6 +12,7 @@ public class ProblemSet1A {
         
         // ------------------------- QUADRATIC FORMULA START -----------------------
         
+        // Variables
         int a = 1;
         int b = 5;
         int c = 6;
@@ -29,6 +30,7 @@ public class ProblemSet1A {
         
         // ------------------------- SLOPE FORMULA START --------------------------
         
+        // Coordinates
         double x1 = 0.0;
         double y1 = 0.0;
         double x2 = 2.0;
